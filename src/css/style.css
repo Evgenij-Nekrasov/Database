@@ -36,6 +36,7 @@ main {
    max-width: 800px;
    display: flex;
    flex-flow: column nowrap;
+   background-color: #000000db;
 }
 
 section {
